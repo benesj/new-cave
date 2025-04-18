@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/new-cave/static/css/main.30f3b6ab.css",
-    "main.js": "/new-cave/static/js/main.f7d96213.js",
+    "main.js": "/new-cave/static/js/main.f16b3557.js",
     "static/js/453.05d8d23e.chunk.js": "/new-cave/static/js/453.05d8d23e.chunk.js",
     "index.html": "/new-cave/index.html",
     "main.30f3b6ab.css.map": "/new-cave/static/css/main.30f3b6ab.css.map",
-    "main.f7d96213.js.map": "/new-cave/static/js/main.f7d96213.js.map",
+    "main.f16b3557.js.map": "/new-cave/static/js/main.f16b3557.js.map",
     "453.05d8d23e.chunk.js.map": "/new-cave/static/js/453.05d8d23e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30f3b6ab.css",
-    "static/js/main.f7d96213.js"
+    "static/js/main.f16b3557.js"
   ]
 }
